@@ -1,0 +1,48 @@
+.geography-container {
+    padding: 40px; 
+    color:black;
+    font-size: xxx-large;
+    margin-top: 30px;
+    text-align: center;
+}
+ 
+     
+ .geography-container-text {
+     font-size: x-large;
+     text-align:center;
+     color: black;
+     background-color:  darkkhaki;
+     font-family: "Times New Roman", Times, serif;
+     margin-right: 25px;
+     margin-left: 25px;
+     border-radius: 20px;
+
+ }
+
+
+ 
+ .kfarfakoud{
+    width: 50%;
+    height: 300px;
+    border-radius: 18px;
+    margin-left: 24PX;
+    margin-top: -329px;
+}
+
+.view{
+    width: 45%;
+    height: 302px;
+    border-radius: 18px;
+    margin-left: 53%;
+    margin-top: 0px;
+    
+}
+
+ .title{
+  color: black;
+  font-size: xxx-large;
+  padding-left: 370px;
+  margin-top: 20px;
+  font-family: "Times New Roman", Times, serif;
+}
+ 

@@ -1,0 +1,39 @@
+.history-container {
+   padding: 20px; 
+   color: black;
+}
+
+.title{
+    color: black;
+    font-family: "Times New Roman", Times, serif;
+}
+    
+.history-container-text {
+    
+    text-align:center;
+    font-size: x-large;
+     text-align:center;
+     color: black;
+     background-color:  darkkhaki;
+     font-family: "Times New Roman", Times, serif;
+     margin-right: 25px;
+     margin-left: 25px;
+     border-radius: 20px;
+} 
+
+
+.history-image-container{
+    border-radius: 18px;
+    width: 60%;
+    height: 50%;
+    text-align: center;
+    position: relative;
+    display: flex; 
+
+} 
+
+.history-image2{
+    width: 70%;
+    border-radius: 18px;
+}
+

@@ -1,0 +1,229 @@
+.homepage{
+    height: 633px;
+    width: 100%;
+    position: relative;
+    text-align: center;
+}
+
+.top-section-title {
+    font-family: "Times New Roman", Times, serif;
+    position: absolute;
+    font-size: 60px;
+    top: 33%;
+    left: 50%;
+    transform: translate(-50% , -50%);
+    color: black;
+}
+
+.home-page-conatiner{
+z-index: 0;
+}
+@media (max-width:1068){
+    .beblchouf{
+        height:   633px;
+        width: 100%;
+        position: relative;
+        text-align: center;
+        z-index: 0;
+    }
+    
+    .top-section-title {
+        font-family: "Times New Roman", Times, serif;
+        position: absolute;
+        font-size: 60px;
+        top: 33%;
+        left: 50%;
+        transform: translate(-50% , -50%);
+        color: black;
+    }
+    
+    .home-page-conatiner{
+    z-index: 0;
+    }
+}
+@media (max-width:1100){
+    .beblchouf{
+        height:   633px;
+        width: 100%;
+        position: relative;
+        text-align: center;
+        z-index: 0;
+    }
+    
+    .top-section-title {
+        font-family: "Times New Roman", Times, serif;
+        position: absolute;
+        font-size: 60px;
+        top: 33%;
+        left: 50%;
+        transform: translate(-50% , -50%);
+        color: black;
+    }
+    
+    .home-page-conatiner{
+    z-index: 0;
+    }
+}
+@media (max-width:980){
+    .beblchouf{
+        height:   633px;
+        width: 100%;
+        position: relative;
+        text-align: center;
+        z-index: 0;
+    }
+    
+    .top-section-title {
+        font-family: "Times New Roman", Times, serif;
+        position: absolute;
+        font-size: 60px;
+        top: 33%;
+        left: 50%;
+        transform: translate(-50% , -50%);
+        color: black;
+    }
+    
+    .home-page-conatiner{
+    z-index: 0;
+    }
+}
+@media (max-width:900){
+    .beblchouf{
+        height:   633px;
+        width: 100%;
+        position: relative;
+        text-align: center;
+        z-index: 0;
+    }
+    
+    .top-section-title {
+        font-family: "Times New Roman", Times, serif;
+        position: absolute;
+        font-size: 60px;
+        top: 33%;
+        left: 50%;
+        transform: translate(-50% , -50%);
+        color: black;
+    }
+    
+    .home-page-conatiner{
+    z-index: 0;
+    }
+}
+@media (max-width:850){
+    .beblchouf{
+        height:   633px;
+        width: 100%;
+        position: relative;
+        text-align: center;
+        z-index: 0;
+    }
+    
+    .top-section-title {
+        font-family: "Times New Roman", Times, serif;
+        position: absolute;
+        font-size: 60px;
+        top: 33%;
+        left: 50%;
+        transform: translate(-50% , -50%);
+        color: black;
+    }
+    
+    .home-page-conatiner{
+    z-index: 0;
+    }
+}
+
+@media (max-width:800){
+    .beblchouf{
+        height:   633px;
+        width: 100%;
+        position: relative;
+        text-align: center;
+        z-index: 0;
+    }
+    
+    .top-section-title {
+        font-family: "Times New Roman", Times, serif;
+        position: absolute;
+        font-size: 60px;
+        top: 33%;
+        left: 50%;
+        transform: translate(-50% , -50%);
+        color: black;
+    }
+    
+    .home-page-conatiner{
+    z-index: 0;
+    }
+}
+
+@media (max-width:790){
+    .beblchouf{
+        height:   633px;
+        width: 100%;
+        position: relative;
+        text-align: center;
+        z-index: 0;
+    }
+    
+    .top-section-title {
+        font-family: "Times New Roman", Times, serif;
+        position: absolute;
+        font-size: 60px;
+        top: 33%;
+        left: 50%;
+        transform: translate(-50% , -50%);
+        color: black;
+    }
+    
+    .home-page-conatiner{
+    z-index: 0;
+    }
+}
+@media (max-width:750){
+    .beblchouf{
+        height:   633px;
+        width: 100%;
+        position: relative;
+        text-align: center;
+        z-index: 0;
+    }
+    
+    .top-section-title {
+        font-family: "Times New Roman", Times, serif;
+        position: absolute;
+        font-size: 60px;
+        top: 33%;
+        left: 50%;
+        transform: translate(-50% , -50%);
+        color: black;
+    }
+    
+    .home-page-conatiner{
+    z-index: 0;
+    }
+}
+@media (max-width:700){
+    .beblchouf{
+        height:   633px;
+        width: 100%;
+        position: relative;
+        text-align: center;
+        z-index: 0;
+    }
+    
+    .top-section-title {
+        font-family: "Times New Roman", Times, serif;
+        position: absolute;
+        font-size: 60px;
+        top: 33%;
+        left: 50%;
+        transform: translate(-50% , -50%);
+        color: black;
+    }
+    
+    .home-page-conatiner{
+    z-index: 0;
+    }
+}

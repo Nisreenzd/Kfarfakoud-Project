@@ -1,0 +1,33 @@
+.events-container-text {
+   text-align: center;
+    color: black;
+    background-color: darkkhaki;
+    padding-right: 13px;
+    padding-left: 23px;
+    border-radius: 22px;
+    font-size: x-large;
+    font-family: "Times New Roman", Times, serif;
+    margin-right: auto;
+    margin-right: 41px;
+    margin-left: 41px;
+  }
+
+
+
+.FSW{
+  width: 50%;
+  height: 50%;
+}
+
+.FSW2{
+  width: 320px;
+}
+
+.FSW3{
+  width: 320px;
+}
+
+.title{
+color: black;
+font-family: "Times New Roman", Times, serif;
+}

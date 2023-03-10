@@ -1,0 +1,80 @@
+.title{
+  padding-left: 60px;
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;  
+}
+.culture-container-text{
+ 
+  font-size: x-large;
+  font-family: "Times New Roman", Times, serif;
+  background-color: darkkhaki;
+  border-style: none;
+  text-align: start;
+  
+  border-radius: 18px;
+  margin-left: 31px;
+  padding-left: 22px;
+  margin-right: 300px;
+}
+
+.beblchouf{
+  width: 30%;
+  height: 200px;
+  border-radius: 18px;
+  margin-top: -250px;
+  margin-left: 850px;
+  margin-right: 200px;
+}
+  
+
+.beibelchouf-text{
+  background-color: darkkhaki;
+  margin-left: 14px;
+  margin-right: 466px;
+  padding-right: 13px;
+  padding-left: 23px;
+  border-radius: 22px;
+  font-size: x-large;
+  font-family: "Times New Roman", Times, serif;
+
+}
+
+.beblchouf2{
+width :50%;
+height:50%;
+display: flex;
+transform:translate(80,50);
+}
+
+.beibelchouf-text{
+  background-color: darkkhaki;
+  margin-left: 29px;
+  margin-right: 466px;
+  padding-right: 13px;
+  padding-left: 23px;
+  border-radius: 22px;
+  font-size: x-large;
+  font-family: "Times New Roman", Times, serif;
+  
+}
+
+.beibelchouf2-text{
+  font-size: x-large;
+  font-family: "Times New Roman", Times, serif;
+  background-color: darkkhaki;
+  border-style: none;
+  text-align: start;
+  padding: 2%;
+  border-radius: 18px;
+  margin-left: 31px;
+  padding-left: 22px;
+}
+
+
+.beitlchouf2{
+    
+    padding-right: -13px;
+    margin-left: 493px;
+    margin-top: -324px;
+    width: 402px;
+}
