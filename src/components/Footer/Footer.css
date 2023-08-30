@@ -1,0 +1,21 @@
+
+.footer {
+    background-color: grey;
+    color: white;
+    padding: 1rem 0;
+    text-align: center;
+  }
+  
+  .footer-content {
+    max-width: 960px;
+    margin: 0 auto;
+  }
+
+  .youtube-button{
+    color:red ;
+  }
+  
+  .youtube-icon{
+    font-size :25px;
+    color: red;
+  }

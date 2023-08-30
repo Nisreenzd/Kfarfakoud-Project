@@ -1,0 +1,17 @@
+.image{
+    height: 30%;
+    width: 100%;
+}
+
+.quotes{
+    font-family: "Times New Roman", Times, serif;
+    position: absolute;
+    font-size: 25px;
+    top: 33%;
+    left: 50%;
+    transform: translate(-80% , -50%);
+    color: black;
+    z-index: 10;
+    margin-top: 77px;
+    text-align: center;
+}
